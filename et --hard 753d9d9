@@ -1,0 +1,8 @@
+[33m3fba824[m[33m ([m[1;36mHEAD[m[33m -> [m[1;32mmain[m[33m, [m[1;31morigin/main[m[33m, [m[1;31morigin/HEAD[m[33m)[m HEAD@{0}: reset: moving to origin/main
+[33m13112fd[m HEAD@{1}: commit: Fix: remove db file, add gitignore, merge with remote
+[33m753d9d9[m HEAD@{2}: pull origin main --allow-unrelated-histories --no-rebase: updating HEAD
+[33m753d9d9[m HEAD@{3}: reset: moving to HEAD~1
+[33m6cf5b76[m HEAD@{4}: commit: Remove database file and add to gitignore
+[33m753d9d9[m HEAD@{5}: pull origin main --allow-unrelated-histories: updating HEAD
+[33m753d9d9[m HEAD@{6}: Branch: renamed refs/heads/master to refs/heads/main
+[33m753d9d9[m HEAD@{8}: commit (initial): Initial commit: Java Spring Boot backend with API tests
